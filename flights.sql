@@ -1,8 +1,5 @@
 /*flights.sql*/
-SELECT
-    *
-FROM
-    USAirlineFlights.flights;
+SELECT * FROM Empleados;
 
 /*Quantitat de registres de la taula de vols:*/
 SELECT
